@@ -1,6 +1,5 @@
-#CharlieSource
+#[CharlieSource](https://github.com/Ornitorrinko/CharlieSource)  
 *Teste prático para contratação de colaboradores*  
-
 
 A empresa CharlieSource é uma empresa de desenvolvimento que trabalha com diversos projetos para diferentes clientes.  
 
@@ -17,7 +16,7 @@ Você deve usar para FrontEnd:
 - Qualquer framework é bem vindo
 
 BackEnd:
-- C# ou ASP
+- C# ou ASP. Nós vamos querer ver o fonte do backend!
 
 Banco de Dados:
 - SQL Server, usando o banco de dados abaixo como a datastore do projeto: 
@@ -36,6 +35,6 @@ O que vamos avaliar:
 - Entendimento do desafio
 
 Você pode entregar o código gerado:
-- Via fork de GitHub
+- Via GitHub
 - Via email (zipado)
-- Ou disponibilizar em algum servidor de sua preferência (para download do fonte, não para funcionamento)
+- Ou disponibilizar o fonte para download em algum servidor de sua preferência
