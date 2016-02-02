@@ -1,5 +1,6 @@
-#CharlieSource#
-* Teste prático para contratação de colaboradores *
+#CharlieSource#  
+*Teste prático para contratação de colaboradores*  
+
 
 A empresa CharlieSource é uma empresa de desenvolvimento que trabalha com diversos projetos para diferentes clientes.  
 
