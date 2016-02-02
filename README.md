@@ -1,5 +1,5 @@
 #[CharlieSource](https://github.com/Ornitorrinko/CharlieSource)  
-*Teste prático para contratação de colaboradores*  
+*Teste prático para contratação de colaboradores. https://github.com/Ornitorrinko/CharlieSource.git*  
 
 A empresa CharlieSource é uma empresa de desenvolvimento que trabalha com diversos projetos para diferentes clientes.  
 
