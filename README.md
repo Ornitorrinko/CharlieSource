@@ -20,10 +20,22 @@ BackEnd:
 - C# ou ASP
 
 Banco de Dados:
-- SQL Server: você deve utilizar o banco de dados anexo como a datastore do projeto
+- SQL Server, usando o banco de dados abaixo como a datastore do projeto: 
+  - https://github.com/Ornitorrinko/CharlieSource/raw/master/CharlieSource.bak.zip (formato backup) **ou**
+  - https://github.com/Ornitorrinko/CharlieSource/raw/master/CharlieSource.sql.zip (formato SQL)
 
 Desejado:
 - Utilizar o BackEnd e FrontEnd apenas para consumir os dados já trabalhados no banco de dados.
 - Utilização de Stored Procedures, Views e Functions são bem vindas.
 
-O que vamos avaliar: Código limpo, arquitetura, performance, domínio da tecnologia, entendimento do desafio.
+O que vamos avaliar:
+- Código limpo
+- Arquitetura
+- Performance
+- Domínio da tecnologia
+- Entendimento do desafio
+
+Você pode entregar o código gerado:
+- Via fork de GitHub
+- Via email (zipado)
+- Ou disponibilizar em algum servidor de sua preferência (para download do fonte, não para funcionamento)
